@@ -1,0 +1,721 @@
+College,Branch,Category,Round,Cutoff_Percentile
+Alpha Institute of Technology,Computer Engineering,OPEN,Round 1,99.98
+Alpha Institute of Technology,Computer Engineering,OPEN,Round 2,94.32
+Alpha Institute of Technology,Computer Engineering,OPEN,Round 3,90.93
+Alpha Institute of Technology,Computer Engineering,EWS,Round 1,99.79
+Alpha Institute of Technology,Computer Engineering,EWS,Round 2,97.01
+Alpha Institute of Technology,Computer Engineering,EWS,Round 3,95.39
+Alpha Institute of Technology,Computer Engineering,OBC,Round 1,98.37
+Alpha Institute of Technology,Computer Engineering,OBC,Round 2,96.27
+Alpha Institute of Technology,Computer Engineering,OBC,Round 3,91.39
+Alpha Institute of Technology,Computer Engineering,SC,Round 1,82.15
+Alpha Institute of Technology,Computer Engineering,SC,Round 2,75.99
+Alpha Institute of Technology,Computer Engineering,SC,Round 3,74.14
+Alpha Institute of Technology,Computer Engineering,ST,Round 1,74.3
+Alpha Institute of Technology,Computer Engineering,ST,Round 2,70.78
+Alpha Institute of Technology,Computer Engineering,ST,Round 3,67.68
+Alpha Institute of Technology,Information Technology,OPEN,Round 1,99.98
+Alpha Institute of Technology,Information Technology,OPEN,Round 2,95.82
+Alpha Institute of Technology,Information Technology,OPEN,Round 3,93.66
+Alpha Institute of Technology,Information Technology,EWS,Round 1,96.48
+Alpha Institute of Technology,Information Technology,EWS,Round 2,93.02
+Alpha Institute of Technology,Information Technology,EWS,Round 3,90.55
+Alpha Institute of Technology,Information Technology,OBC,Round 1,94.47
+Alpha Institute of Technology,Information Technology,OBC,Round 2,90.19
+Alpha Institute of Technology,Information Technology,OBC,Round 3,86.05
+Alpha Institute of Technology,Information Technology,SC,Round 1,79.1
+Alpha Institute of Technology,Information Technology,SC,Round 2,74.14
+Alpha Institute of Technology,Information Technology,SC,Round 3,72.95
+Alpha Institute of Technology,Information Technology,ST,Round 1,70.86
+Alpha Institute of Technology,Information Technology,ST,Round 2,65.83
+Alpha Institute of Technology,Information Technology,ST,Round 3,64.14
+Alpha Institute of Technology,Electronics & Telecommunication,OPEN,Round 1,93.1
+Alpha Institute of Technology,Electronics & Telecommunication,OPEN,Round 2,87.68
+Alpha Institute of Technology,Electronics & Telecommunication,OPEN,Round 3,84.92
+Alpha Institute of Technology,Electronics & Telecommunication,EWS,Round 1,90.56
+Alpha Institute of Technology,Electronics & Telecommunication,EWS,Round 2,87.95
+Alpha Institute of Technology,Electronics & Telecommunication,EWS,Round 3,84.97
+Alpha Institute of Technology,Electronics & Telecommunication,OBC,Round 1,88.23
+Alpha Institute of Technology,Electronics & Telecommunication,OBC,Round 2,84.68
+Alpha Institute of Technology,Electronics & Telecommunication,OBC,Round 3,81.59
+Alpha Institute of Technology,Electronics & Telecommunication,SC,Round 1,70.17
+Alpha Institute of Technology,Electronics & Telecommunication,SC,Round 2,65.44
+Alpha Institute of Technology,Electronics & Telecommunication,SC,Round 3,63.7
+Alpha Institute of Technology,Electronics & Telecommunication,ST,Round 1,67.11
+Alpha Institute of Technology,Electronics & Telecommunication,ST,Round 2,64.67
+Alpha Institute of Technology,Electronics & Telecommunication,ST,Round 3,62.88
+Alpha Institute of Technology,Electrical Engineering,OPEN,Round 1,88.26
+Alpha Institute of Technology,Electrical Engineering,OPEN,Round 2,86.03
+Alpha Institute of Technology,Electrical Engineering,OPEN,Round 3,83.73
+Alpha Institute of Technology,Electrical Engineering,EWS,Round 1,82.78
+Alpha Institute of Technology,Electrical Engineering,EWS,Round 2,76.64
+Alpha Institute of Technology,Electrical Engineering,EWS,Round 3,74.21
+Alpha Institute of Technology,Electrical Engineering,OBC,Round 1,79.92
+Alpha Institute of Technology,Electrical Engineering,OBC,Round 2,76.52
+Alpha Institute of Technology,Electrical Engineering,OBC,Round 3,73.34
+Alpha Institute of Technology,Electrical Engineering,SC,Round 1,66.49
+Alpha Institute of Technology,Electrical Engineering,SC,Round 2,64.11
+Alpha Institute of Technology,Electrical Engineering,SC,Round 3,59.17
+Alpha Institute of Technology,Electrical Engineering,ST,Round 1,59.42
+Alpha Institute of Technology,Electrical Engineering,ST,Round 2,53.56
+Alpha Institute of Technology,Electrical Engineering,ST,Round 3,51.77
+Alpha Institute of Technology,Mechanical Engineering,OPEN,Round 1,87.55
+Alpha Institute of Technology,Mechanical Engineering,OPEN,Round 2,81.69
+Alpha Institute of Technology,Mechanical Engineering,OPEN,Round 3,80.39
+Alpha Institute of Technology,Mechanical Engineering,EWS,Round 1,84.4
+Alpha Institute of Technology,Mechanical Engineering,EWS,Round 2,80.6
+Alpha Institute of Technology,Mechanical Engineering,EWS,Round 3,79.14
+Alpha Institute of Technology,Mechanical Engineering,OBC,Round 1,79.5
+Alpha Institute of Technology,Mechanical Engineering,OBC,Round 2,75.84
+Alpha Institute of Technology,Mechanical Engineering,OBC,Round 3,74.59
+Alpha Institute of Technology,Mechanical Engineering,SC,Round 1,65.46
+Alpha Institute of Technology,Mechanical Engineering,SC,Round 2,61.91
+Alpha Institute of Technology,Mechanical Engineering,SC,Round 3,59.61
+Alpha Institute of Technology,Mechanical Engineering,ST,Round 1,59.22
+Alpha Institute of Technology,Mechanical Engineering,ST,Round 2,52.78
+Alpha Institute of Technology,Mechanical Engineering,ST,Round 3,49.89
+Alpha Institute of Technology,Civil Engineering,OPEN,Round 1,82.03
+Alpha Institute of Technology,Civil Engineering,OPEN,Round 2,79.44
+Alpha Institute of Technology,Civil Engineering,OPEN,Round 3,75.58
+Alpha Institute of Technology,Civil Engineering,EWS,Round 1,77.54
+Alpha Institute of Technology,Civil Engineering,EWS,Round 2,71.69
+Alpha Institute of Technology,Civil Engineering,EWS,Round 3,68.71
+Alpha Institute of Technology,Civil Engineering,OBC,Round 1,75.31
+Alpha Institute of Technology,Civil Engineering,OBC,Round 2,70.69
+Alpha Institute of Technology,Civil Engineering,OBC,Round 3,67.98
+Alpha Institute of Technology,Civil Engineering,SC,Round 1,58.13
+Alpha Institute of Technology,Civil Engineering,SC,Round 2,54.56
+Alpha Institute of Technology,Civil Engineering,SC,Round 3,51.52
+Alpha Institute of Technology,Civil Engineering,ST,Round 1,51.55
+Alpha Institute of Technology,Civil Engineering,ST,Round 2,45.01
+Alpha Institute of Technology,Civil Engineering,ST,Round 3,43.02
+Bright Future College of Engineering,Computer Engineering,OPEN,Round 1,99.98
+Bright Future College of Engineering,Computer Engineering,OPEN,Round 2,96.84
+Bright Future College of Engineering,Computer Engineering,OPEN,Round 3,95.53
+Bright Future College of Engineering,Computer Engineering,EWS,Round 1,97.51
+Bright Future College of Engineering,Computer Engineering,EWS,Round 2,94.06
+Bright Future College of Engineering,Computer Engineering,EWS,Round 3,92.41
+Bright Future College of Engineering,Computer Engineering,OBC,Round 1,95.66
+Bright Future College of Engineering,Computer Engineering,OBC,Round 2,89.64
+Bright Future College of Engineering,Computer Engineering,OBC,Round 3,87.89
+Bright Future College of Engineering,Computer Engineering,SC,Round 1,79.78
+Bright Future College of Engineering,Computer Engineering,SC,Round 2,73.32
+Bright Future College of Engineering,Computer Engineering,SC,Round 3,70.16
+Bright Future College of Engineering,Computer Engineering,ST,Round 1,72.23
+Bright Future College of Engineering,Computer Engineering,ST,Round 2,69.09
+Bright Future College of Engineering,Computer Engineering,ST,Round 3,66.38
+Bright Future College of Engineering,Information Technology,OPEN,Round 1,98.79
+Bright Future College of Engineering,Information Technology,OPEN,Round 2,92.7
+Bright Future College of Engineering,Information Technology,OPEN,Round 3,88.26
+Bright Future College of Engineering,Information Technology,EWS,Round 1,96.29
+Bright Future College of Engineering,Information Technology,EWS,Round 2,92.21
+Bright Future College of Engineering,Information Technology,EWS,Round 3,90.32
+Bright Future College of Engineering,Information Technology,OBC,Round 1,91.93
+Bright Future College of Engineering,Information Technology,OBC,Round 2,89.33
+Bright Future College of Engineering,Information Technology,OBC,Round 3,86.98
+Bright Future College of Engineering,Information Technology,SC,Round 1,77.04
+Bright Future College of Engineering,Information Technology,SC,Round 2,72.45
+Bright Future College of Engineering,Information Technology,SC,Round 3,68.64
+Bright Future College of Engineering,Information Technology,ST,Round 1,71.89
+Bright Future College of Engineering,Information Technology,ST,Round 2,68.07
+Bright Future College of Engineering,Information Technology,ST,Round 3,63.19
+Bright Future College of Engineering,Electronics & Telecommunication,OPEN,Round 1,89.41
+Bright Future College of Engineering,Electronics & Telecommunication,OPEN,Round 2,85.98
+Bright Future College of Engineering,Electronics & Telecommunication,OPEN,Round 3,84.84
+Bright Future College of Engineering,Electronics & Telecommunication,EWS,Round 1,89.25
+Bright Future College of Engineering,Electronics & Telecommunication,EWS,Round 2,84.2
+Bright Future College of Engineering,Electronics & Telecommunication,EWS,Round 3,81.19
+Bright Future College of Engineering,Electronics & Telecommunication,OBC,Round 1,85.0
+Bright Future College of Engineering,Electronics & Telecommunication,OBC,Round 2,82.27
+Bright Future College of Engineering,Electronics & Telecommunication,OBC,Round 3,79.31
+Bright Future College of Engineering,Electronics & Telecommunication,SC,Round 1,70.74
+Bright Future College of Engineering,Electronics & Telecommunication,SC,Round 2,63.81
+Bright Future College of Engineering,Electronics & Telecommunication,SC,Round 3,61.84
+Bright Future College of Engineering,Electronics & Telecommunication,ST,Round 1,66.0
+Bright Future College of Engineering,Electronics & Telecommunication,ST,Round 2,62.81
+Bright Future College of Engineering,Electronics & Telecommunication,ST,Round 3,58.9
+Bright Future College of Engineering,Electrical Engineering,OPEN,Round 1,87.41
+Bright Future College of Engineering,Electrical Engineering,OPEN,Round 2,83.57
+Bright Future College of Engineering,Electrical Engineering,OPEN,Round 3,80.05
+Bright Future College of Engineering,Electrical Engineering,EWS,Round 1,84.17
+Bright Future College of Engineering,Electrical Engineering,EWS,Round 2,81.71
+Bright Future College of Engineering,Electrical Engineering,EWS,Round 3,77.37
+Bright Future College of Engineering,Electrical Engineering,OBC,Round 1,82.57
+Bright Future College of Engineering,Electrical Engineering,OBC,Round 2,78.97
+Bright Future College of Engineering,Electrical Engineering,OBC,Round 3,77.22
+Bright Future College of Engineering,Electrical Engineering,SC,Round 1,64.44
+Bright Future College of Engineering,Electrical Engineering,SC,Round 2,59.05
+Bright Future College of Engineering,Electrical Engineering,SC,Round 3,57.98
+Bright Future College of Engineering,Electrical Engineering,ST,Round 1,57.53
+Bright Future College of Engineering,Electrical Engineering,ST,Round 2,52.97
+Bright Future College of Engineering,Electrical Engineering,ST,Round 3,51.06
+Bright Future College of Engineering,Mechanical Engineering,OPEN,Round 1,82.69
+Bright Future College of Engineering,Mechanical Engineering,OPEN,Round 2,77.24
+Bright Future College of Engineering,Mechanical Engineering,OPEN,Round 3,74.69
+Bright Future College of Engineering,Mechanical Engineering,EWS,Round 1,82.0
+Bright Future College of Engineering,Mechanical Engineering,EWS,Round 2,75.31
+Bright Future College of Engineering,Mechanical Engineering,EWS,Round 3,73.76
+Bright Future College of Engineering,Mechanical Engineering,OBC,Round 1,76.11
+Bright Future College of Engineering,Mechanical Engineering,OBC,Round 2,69.49
+Bright Future College of Engineering,Mechanical Engineering,OBC,Round 3,64.98
+Bright Future College of Engineering,Mechanical Engineering,SC,Round 1,61.8
+Bright Future College of Engineering,Mechanical Engineering,SC,Round 2,58.51
+Bright Future College of Engineering,Mechanical Engineering,SC,Round 3,54.87
+Bright Future College of Engineering,Mechanical Engineering,ST,Round 1,56.63
+Bright Future College of Engineering,Mechanical Engineering,ST,Round 2,51.98
+Bright Future College of Engineering,Mechanical Engineering,ST,Round 3,50.01
+Bright Future College of Engineering,Civil Engineering,OPEN,Round 1,80.25
+Bright Future College of Engineering,Civil Engineering,OPEN,Round 2,77.78
+Bright Future College of Engineering,Civil Engineering,OPEN,Round 3,73.19
+Bright Future College of Engineering,Civil Engineering,EWS,Round 1,75.68
+Bright Future College of Engineering,Civil Engineering,EWS,Round 2,71.98
+Bright Future College of Engineering,Civil Engineering,EWS,Round 3,69.58
+Bright Future College of Engineering,Civil Engineering,OBC,Round 1,72.46
+Bright Future College of Engineering,Civil Engineering,OBC,Round 2,66.83
+Bright Future College of Engineering,Civil Engineering,OBC,Round 3,62.24
+Bright Future College of Engineering,Civil Engineering,SC,Round 1,56.66
+Bright Future College of Engineering,Civil Engineering,SC,Round 2,51.45
+Bright Future College of Engineering,Civil Engineering,SC,Round 3,50.11
+Bright Future College of Engineering,Civil Engineering,ST,Round 1,50.81
+Bright Future College of Engineering,Civil Engineering,ST,Round 2,48.0
+Bright Future College of Engineering,Civil Engineering,ST,Round 3,43.4
+Metro City Engineering College,Computer Engineering,OPEN,Round 1,99.98
+Metro City Engineering College,Computer Engineering,OPEN,Round 2,97.95
+Metro City Engineering College,Computer Engineering,OPEN,Round 3,96.31
+Metro City Engineering College,Computer Engineering,EWS,Round 1,95.5
+Metro City Engineering College,Computer Engineering,EWS,Round 2,90.76
+Metro City Engineering College,Computer Engineering,EWS,Round 3,86.99
+Metro City Engineering College,Computer Engineering,OBC,Round 1,90.78
+Metro City Engineering College,Computer Engineering,OBC,Round 2,85.22
+Metro City Engineering College,Computer Engineering,OBC,Round 3,83.27
+Metro City Engineering College,Computer Engineering,SC,Round 1,78.56
+Metro City Engineering College,Computer Engineering,SC,Round 2,74.93
+Metro City Engineering College,Computer Engineering,SC,Round 3,70.94
+Metro City Engineering College,Computer Engineering,ST,Round 1,73.02
+Metro City Engineering College,Computer Engineering,ST,Round 2,67.73
+Metro City Engineering College,Computer Engineering,ST,Round 3,64.46
+Metro City Engineering College,Information Technology,OPEN,Round 1,98.19
+Metro City Engineering College,Information Technology,OPEN,Round 2,95.72
+Metro City Engineering College,Information Technology,OPEN,Round 3,93.25
+Metro City Engineering College,Information Technology,EWS,Round 1,93.24
+Metro City Engineering College,Information Technology,EWS,Round 2,86.37
+Metro City Engineering College,Information Technology,EWS,Round 3,83.8
+Metro City Engineering College,Information Technology,OBC,Round 1,89.35
+Metro City Engineering College,Information Technology,OBC,Round 2,82.89
+Metro City Engineering College,Information Technology,OBC,Round 3,79.36
+Metro City Engineering College,Information Technology,SC,Round 1,75.59
+Metro City Engineering College,Information Technology,SC,Round 2,70.71
+Metro City Engineering College,Information Technology,SC,Round 3,67.74
+Metro City Engineering College,Information Technology,ST,Round 1,71.75
+Metro City Engineering College,Information Technology,ST,Round 2,68.78
+Metro City Engineering College,Information Technology,ST,Round 3,64.89
+Metro City Engineering College,Electronics & Telecommunication,OPEN,Round 1,88.97
+Metro City Engineering College,Electronics & Telecommunication,OPEN,Round 2,82.26
+Metro City Engineering College,Electronics & Telecommunication,OPEN,Round 3,77.45
+Metro City Engineering College,Electronics & Telecommunication,EWS,Round 1,88.3
+Metro City Engineering College,Electronics & Telecommunication,EWS,Round 2,81.72
+Metro City Engineering College,Electronics & Telecommunication,EWS,Round 3,79.24
+Metro City Engineering College,Electronics & Telecommunication,OBC,Round 1,84.28
+Metro City Engineering College,Electronics & Telecommunication,OBC,Round 2,77.46
+Metro City Engineering College,Electronics & Telecommunication,OBC,Round 3,73.05
+Metro City Engineering College,Electronics & Telecommunication,SC,Round 1,68.46
+Metro City Engineering College,Electronics & Telecommunication,SC,Round 2,64.99
+Metro City Engineering College,Electronics & Telecommunication,SC,Round 3,62.45
+Metro City Engineering College,Electronics & Telecommunication,ST,Round 1,61.9
+Metro City Engineering College,Electronics & Telecommunication,ST,Round 2,59.05
+Metro City Engineering College,Electronics & Telecommunication,ST,Round 3,55.83
+Metro City Engineering College,Electrical Engineering,OPEN,Round 1,85.86
+Metro City Engineering College,Electrical Engineering,OPEN,Round 2,79.18
+Metro City Engineering College,Electrical Engineering,OPEN,Round 3,75.39
+Metro City Engineering College,Electrical Engineering,EWS,Round 1,80.25
+Metro City Engineering College,Electrical Engineering,EWS,Round 2,75.17
+Metro City Engineering College,Electrical Engineering,EWS,Round 3,70.21
+Metro City Engineering College,Electrical Engineering,OBC,Round 1,77.8
+Metro City Engineering College,Electrical Engineering,OBC,Round 2,75.1
+Metro City Engineering College,Electrical Engineering,OBC,Round 3,72.03
+Metro City Engineering College,Electrical Engineering,SC,Round 1,63.11
+Metro City Engineering College,Electrical Engineering,SC,Round 2,57.62
+Metro City Engineering College,Electrical Engineering,SC,Round 3,53.81
+Metro City Engineering College,Electrical Engineering,ST,Round 1,57.41
+Metro City Engineering College,Electrical Engineering,ST,Round 2,53.62
+Metro City Engineering College,Electrical Engineering,ST,Round 3,51.44
+Metro City Engineering College,Mechanical Engineering,OPEN,Round 1,83.34
+Metro City Engineering College,Mechanical Engineering,OPEN,Round 2,77.01
+Metro City Engineering College,Mechanical Engineering,OPEN,Round 3,72.36
+Metro City Engineering College,Mechanical Engineering,EWS,Round 1,80.34
+Metro City Engineering College,Mechanical Engineering,EWS,Round 2,75.79
+Metro City Engineering College,Mechanical Engineering,EWS,Round 3,72.78
+Metro City Engineering College,Mechanical Engineering,OBC,Round 1,76.43
+Metro City Engineering College,Mechanical Engineering,OBC,Round 2,70.92
+Metro City Engineering College,Mechanical Engineering,OBC,Round 3,66.73
+Metro City Engineering College,Mechanical Engineering,SC,Round 1,62.27
+Metro City Engineering College,Mechanical Engineering,SC,Round 2,55.82
+Metro City Engineering College,Mechanical Engineering,SC,Round 3,53.47
+Metro City Engineering College,Mechanical Engineering,ST,Round 1,53.41
+Metro City Engineering College,Mechanical Engineering,ST,Round 2,48.52
+Metro City Engineering College,Mechanical Engineering,ST,Round 3,47.38
+Metro City Engineering College,Civil Engineering,OPEN,Round 1,76.22
+Metro City Engineering College,Civil Engineering,OPEN,Round 2,71.89
+Metro City Engineering College,Civil Engineering,OPEN,Round 3,68.72
+Metro City Engineering College,Civil Engineering,EWS,Round 1,74.6
+Metro City Engineering College,Civil Engineering,EWS,Round 2,72.45
+Metro City Engineering College,Civil Engineering,EWS,Round 3,71.3
+Metro City Engineering College,Civil Engineering,OBC,Round 1,67.15
+Metro City Engineering College,Civil Engineering,OBC,Round 2,61.04
+Metro City Engineering College,Civil Engineering,OBC,Round 3,58.6
+Metro City Engineering College,Civil Engineering,SC,Round 1,54.67
+Metro City Engineering College,Civil Engineering,SC,Round 2,48.82
+Metro City Engineering College,Civil Engineering,SC,Round 3,46.95
+Metro City Engineering College,Civil Engineering,ST,Round 1,46.95
+Metro City Engineering College,Civil Engineering,ST,Round 2,41.84
+Metro City Engineering College,Civil Engineering,ST,Round 3,40.5
+Horizon Institute of Technology,Computer Engineering,OPEN,Round 1,97.93
+Horizon Institute of Technology,Computer Engineering,OPEN,Round 2,93.22
+Horizon Institute of Technology,Computer Engineering,OPEN,Round 3,89.67
+Horizon Institute of Technology,Computer Engineering,EWS,Round 1,93.88
+Horizon Institute of Technology,Computer Engineering,EWS,Round 2,88.25
+Horizon Institute of Technology,Computer Engineering,EWS,Round 3,83.35
+Horizon Institute of Technology,Computer Engineering,OBC,Round 1,87.82
+Horizon Institute of Technology,Computer Engineering,OBC,Round 2,81.84
+Horizon Institute of Technology,Computer Engineering,OBC,Round 3,79.76
+Horizon Institute of Technology,Computer Engineering,SC,Round 1,76.14
+Horizon Institute of Technology,Computer Engineering,SC,Round 2,71.94
+Horizon Institute of Technology,Computer Engineering,SC,Round 3,70.63
+Horizon Institute of Technology,Computer Engineering,ST,Round 1,70.61
+Horizon Institute of Technology,Computer Engineering,ST,Round 2,66.57
+Horizon Institute of Technology,Computer Engineering,ST,Round 3,64.88
+Horizon Institute of Technology,Information Technology,OPEN,Round 1,97.16
+Horizon Institute of Technology,Information Technology,OPEN,Round 2,94.37
+Horizon Institute of Technology,Information Technology,OPEN,Round 3,92.37
+Horizon Institute of Technology,Information Technology,EWS,Round 1,95.51
+Horizon Institute of Technology,Information Technology,EWS,Round 2,90.2
+Horizon Institute of Technology,Information Technology,EWS,Round 3,88.08
+Horizon Institute of Technology,Information Technology,OBC,Round 1,89.46
+Horizon Institute of Technology,Information Technology,OBC,Round 2,82.69
+Horizon Institute of Technology,Information Technology,OBC,Round 3,78.74
+Horizon Institute of Technology,Information Technology,SC,Round 1,77.04
+Horizon Institute of Technology,Information Technology,SC,Round 2,72.94
+Horizon Institute of Technology,Information Technology,SC,Round 3,70.95
+Horizon Institute of Technology,Information Technology,ST,Round 1,69.41
+Horizon Institute of Technology,Information Technology,ST,Round 2,65.63
+Horizon Institute of Technology,Information Technology,ST,Round 3,61.59
+Horizon Institute of Technology,Electronics & Telecommunication,OPEN,Round 1,89.52
+Horizon Institute of Technology,Electronics & Telecommunication,OPEN,Round 2,85.15
+Horizon Institute of Technology,Electronics & Telecommunication,OPEN,Round 3,83.76
+Horizon Institute of Technology,Electronics & Telecommunication,EWS,Round 1,87.02
+Horizon Institute of Technology,Electronics & Telecommunication,EWS,Round 2,82.56
+Horizon Institute of Technology,Electronics & Telecommunication,EWS,Round 3,79.67
+Horizon Institute of Technology,Electronics & Telecommunication,OBC,Round 1,81.48
+Horizon Institute of Technology,Electronics & Telecommunication,OBC,Round 2,77.49
+Horizon Institute of Technology,Electronics & Telecommunication,OBC,Round 3,74.02
+Horizon Institute of Technology,Electronics & Telecommunication,SC,Round 1,64.99
+Horizon Institute of Technology,Electronics & Telecommunication,SC,Round 2,59.81
+Horizon Institute of Technology,Electronics & Telecommunication,SC,Round 3,58.63
+Horizon Institute of Technology,Electronics & Telecommunication,ST,Round 1,63.02
+Horizon Institute of Technology,Electronics & Telecommunication,ST,Round 2,58.5
+Horizon Institute of Technology,Electronics & Telecommunication,ST,Round 3,54.08
+Horizon Institute of Technology,Electrical Engineering,OPEN,Round 1,80.7
+Horizon Institute of Technology,Electrical Engineering,OPEN,Round 2,75.41
+Horizon Institute of Technology,Electrical Engineering,OPEN,Round 3,73.76
+Horizon Institute of Technology,Electrical Engineering,EWS,Round 1,80.16
+Horizon Institute of Technology,Electrical Engineering,EWS,Round 2,78.02
+Horizon Institute of Technology,Electrical Engineering,EWS,Round 3,74.68
+Horizon Institute of Technology,Electrical Engineering,OBC,Round 1,74.96
+Horizon Institute of Technology,Electrical Engineering,OBC,Round 2,68.26
+Horizon Institute of Technology,Electrical Engineering,OBC,Round 3,64.95
+Horizon Institute of Technology,Electrical Engineering,SC,Round 1,63.24
+Horizon Institute of Technology,Electrical Engineering,SC,Round 2,58.94
+Horizon Institute of Technology,Electrical Engineering,SC,Round 3,55.76
+Horizon Institute of Technology,Electrical Engineering,ST,Round 1,53.0
+Horizon Institute of Technology,Electrical Engineering,ST,Round 2,46.29
+Horizon Institute of Technology,Electrical Engineering,ST,Round 3,43.75
+Horizon Institute of Technology,Mechanical Engineering,OPEN,Round 1,81.28
+Horizon Institute of Technology,Mechanical Engineering,OPEN,Round 2,78.92
+Horizon Institute of Technology,Mechanical Engineering,OPEN,Round 3,76.65
+Horizon Institute of Technology,Mechanical Engineering,EWS,Round 1,76.92
+Horizon Institute of Technology,Mechanical Engineering,EWS,Round 2,70.7
+Horizon Institute of Technology,Mechanical Engineering,EWS,Round 3,69.61
+Horizon Institute of Technology,Mechanical Engineering,OBC,Round 1,72.97
+Horizon Institute of Technology,Mechanical Engineering,OBC,Round 2,70.38
+Horizon Institute of Technology,Mechanical Engineering,OBC,Round 3,66.6
+Horizon Institute of Technology,Mechanical Engineering,SC,Round 1,60.13
+Horizon Institute of Technology,Mechanical Engineering,SC,Round 2,54.99
+Horizon Institute of Technology,Mechanical Engineering,SC,Round 3,50.48
+Horizon Institute of Technology,Mechanical Engineering,ST,Round 1,54.08
+Horizon Institute of Technology,Mechanical Engineering,ST,Round 2,50.67
+Horizon Institute of Technology,Mechanical Engineering,ST,Round 3,48.96
+Horizon Institute of Technology,Civil Engineering,OPEN,Round 1,75.8
+Horizon Institute of Technology,Civil Engineering,OPEN,Round 2,70.05
+Horizon Institute of Technology,Civil Engineering,OPEN,Round 3,65.82
+Horizon Institute of Technology,Civil Engineering,EWS,Round 1,71.83
+Horizon Institute of Technology,Civil Engineering,EWS,Round 2,67.97
+Horizon Institute of Technology,Civil Engineering,EWS,Round 3,63.86
+Horizon Institute of Technology,Civil Engineering,OBC,Round 1,68.03
+Horizon Institute of Technology,Civil Engineering,OBC,Round 2,64.33
+Horizon Institute of Technology,Civil Engineering,OBC,Round 3,59.61
+Horizon Institute of Technology,Civil Engineering,SC,Round 1,52.53
+Horizon Institute of Technology,Civil Engineering,SC,Round 2,46.78
+Horizon Institute of Technology,Civil Engineering,SC,Round 3,42.76
+Horizon Institute of Technology,Civil Engineering,ST,Round 1,48.51
+Horizon Institute of Technology,Civil Engineering,ST,Round 2,45.99
+Horizon Institute of Technology,Civil Engineering,ST,Round 3,41.38
+Greenfield College of Engineering,Computer Engineering,OPEN,Round 1,98.1
+Greenfield College of Engineering,Computer Engineering,OPEN,Round 2,94.5
+Greenfield College of Engineering,Computer Engineering,OPEN,Round 3,89.92
+Greenfield College of Engineering,Computer Engineering,EWS,Round 1,93.17
+Greenfield College of Engineering,Computer Engineering,EWS,Round 2,89.23
+Greenfield College of Engineering,Computer Engineering,EWS,Round 3,88.19
+Greenfield College of Engineering,Computer Engineering,OBC,Round 1,89.63
+Greenfield College of Engineering,Computer Engineering,OBC,Round 2,82.88
+Greenfield College of Engineering,Computer Engineering,OBC,Round 3,79.58
+Greenfield College of Engineering,Computer Engineering,SC,Round 1,73.95
+Greenfield College of Engineering,Computer Engineering,SC,Round 2,68.79
+Greenfield College of Engineering,Computer Engineering,SC,Round 3,65.99
+Greenfield College of Engineering,Computer Engineering,ST,Round 1,66.63
+Greenfield College of Engineering,Computer Engineering,ST,Round 2,61.27
+Greenfield College of Engineering,Computer Engineering,ST,Round 3,57.26
+Greenfield College of Engineering,Information Technology,OPEN,Round 1,92.32
+Greenfield College of Engineering,Information Technology,OPEN,Round 2,86.36
+Greenfield College of Engineering,Information Technology,OPEN,Round 3,82.21
+Greenfield College of Engineering,Information Technology,EWS,Round 1,91.12
+Greenfield College of Engineering,Information Technology,EWS,Round 2,88.84
+Greenfield College of Engineering,Information Technology,EWS,Round 3,85.64
+Greenfield College of Engineering,Information Technology,OBC,Round 1,85.8
+Greenfield College of Engineering,Information Technology,OBC,Round 2,81.59
+Greenfield College of Engineering,Information Technology,OBC,Round 3,77.04
+Greenfield College of Engineering,Information Technology,SC,Round 1,70.9
+Greenfield College of Engineering,Information Technology,SC,Round 2,68.19
+Greenfield College of Engineering,Information Technology,SC,Round 3,64.14
+Greenfield College of Engineering,Information Technology,ST,Round 1,65.66
+Greenfield College of Engineering,Information Technology,ST,Round 2,60.57
+Greenfield College of Engineering,Information Technology,ST,Round 3,59.17
+Greenfield College of Engineering,Electronics & Telecommunication,OPEN,Round 1,87.51
+Greenfield College of Engineering,Electronics & Telecommunication,OPEN,Round 2,85.15
+Greenfield College of Engineering,Electronics & Telecommunication,OPEN,Round 3,80.86
+Greenfield College of Engineering,Electronics & Telecommunication,EWS,Round 1,83.38
+Greenfield College of Engineering,Electronics & Telecommunication,EWS,Round 2,77.85
+Greenfield College of Engineering,Electronics & Telecommunication,EWS,Round 3,76.53
+Greenfield College of Engineering,Electronics & Telecommunication,OBC,Round 1,77.97
+Greenfield College of Engineering,Electronics & Telecommunication,OBC,Round 2,71.91
+Greenfield College of Engineering,Electronics & Telecommunication,OBC,Round 3,67.12
+Greenfield College of Engineering,Electronics & Telecommunication,SC,Round 1,63.03
+Greenfield College of Engineering,Electronics & Telecommunication,SC,Round 2,56.1
+Greenfield College of Engineering,Electronics & Telecommunication,SC,Round 3,52.09
+Greenfield College of Engineering,Electronics & Telecommunication,ST,Round 1,58.07
+Greenfield College of Engineering,Electronics & Telecommunication,ST,Round 2,52.18
+Greenfield College of Engineering,Electronics & Telecommunication,ST,Round 3,48.95
+Greenfield College of Engineering,Electrical Engineering,OPEN,Round 1,80.82
+Greenfield College of Engineering,Electrical Engineering,OPEN,Round 2,76.7
+Greenfield College of Engineering,Electrical Engineering,OPEN,Round 3,72.08
+Greenfield College of Engineering,Electrical Engineering,EWS,Round 1,78.11
+Greenfield College of Engineering,Electrical Engineering,EWS,Round 2,76.06
+Greenfield College of Engineering,Electrical Engineering,EWS,Round 3,73.18
+Greenfield College of Engineering,Electrical Engineering,OBC,Round 1,72.64
+Greenfield College of Engineering,Electrical Engineering,OBC,Round 2,70.36
+Greenfield College of Engineering,Electrical Engineering,OBC,Round 3,68.88
+Greenfield College of Engineering,Electrical Engineering,SC,Round 1,59.63
+Greenfield College of Engineering,Electrical Engineering,SC,Round 2,53.9
+Greenfield College of Engineering,Electrical Engineering,SC,Round 3,50.56
+Greenfield College of Engineering,Electrical Engineering,ST,Round 1,51.9
+Greenfield College of Engineering,Electrical Engineering,ST,Round 2,45.09
+Greenfield College of Engineering,Electrical Engineering,ST,Round 3,42.59
+Greenfield College of Engineering,Mechanical Engineering,OPEN,Round 1,80.18
+Greenfield College of Engineering,Mechanical Engineering,OPEN,Round 2,77.06
+Greenfield College of Engineering,Mechanical Engineering,OPEN,Round 3,72.21
+Greenfield College of Engineering,Mechanical Engineering,EWS,Round 1,75.54
+Greenfield College of Engineering,Mechanical Engineering,EWS,Round 2,73.48
+Greenfield College of Engineering,Mechanical Engineering,EWS,Round 3,68.6
+Greenfield College of Engineering,Mechanical Engineering,OBC,Round 1,72.48
+Greenfield College of Engineering,Mechanical Engineering,OBC,Round 2,70.11
+Greenfield College of Engineering,Mechanical Engineering,OBC,Round 3,66.89
+Greenfield College of Engineering,Mechanical Engineering,SC,Round 1,57.16
+Greenfield College of Engineering,Mechanical Engineering,SC,Round 2,50.32
+Greenfield College of Engineering,Mechanical Engineering,SC,Round 3,47.22
+Greenfield College of Engineering,Mechanical Engineering,ST,Round 1,53.32
+Greenfield College of Engineering,Mechanical Engineering,ST,Round 2,49.05
+Greenfield College of Engineering,Mechanical Engineering,ST,Round 3,45.54
+Greenfield College of Engineering,Civil Engineering,OPEN,Round 1,74.58
+Greenfield College of Engineering,Civil Engineering,OPEN,Round 2,69.66
+Greenfield College of Engineering,Civil Engineering,OPEN,Round 3,65.06
+Greenfield College of Engineering,Civil Engineering,EWS,Round 1,73.43
+Greenfield College of Engineering,Civil Engineering,EWS,Round 2,70.04
+Greenfield College of Engineering,Civil Engineering,EWS,Round 3,68.29
+Greenfield College of Engineering,Civil Engineering,OBC,Round 1,64.93
+Greenfield College of Engineering,Civil Engineering,OBC,Round 2,60.61
+Greenfield College of Engineering,Civil Engineering,OBC,Round 3,58.2
+Greenfield College of Engineering,Civil Engineering,SC,Round 1,50.0
+Greenfield College of Engineering,Civil Engineering,SC,Round 2,43.13
+Greenfield College of Engineering,Civil Engineering,SC,Round 3,38.19
+Greenfield College of Engineering,Civil Engineering,ST,Round 1,45.37
+Greenfield College of Engineering,Civil Engineering,ST,Round 2,39.88
+Greenfield College of Engineering,Civil Engineering,ST,Round 3,36.73
+Summit Engineering College,Computer Engineering,OPEN,Round 1,95.85
+Summit Engineering College,Computer Engineering,OPEN,Round 2,90.43
+Summit Engineering College,Computer Engineering,OPEN,Round 3,88.78
+Summit Engineering College,Computer Engineering,EWS,Round 1,90.56
+Summit Engineering College,Computer Engineering,EWS,Round 2,84.01
+Summit Engineering College,Computer Engineering,EWS,Round 3,79.72
+Summit Engineering College,Computer Engineering,OBC,Round 1,85.45
+Summit Engineering College,Computer Engineering,OBC,Round 2,78.78
+Summit Engineering College,Computer Engineering,OBC,Round 3,74.32
+Summit Engineering College,Computer Engineering,SC,Round 1,75.18
+Summit Engineering College,Computer Engineering,SC,Round 2,72.95
+Summit Engineering College,Computer Engineering,SC,Round 3,71.84
+Summit Engineering College,Computer Engineering,ST,Round 1,68.2
+Summit Engineering College,Computer Engineering,ST,Round 2,61.26
+Summit Engineering College,Computer Engineering,ST,Round 3,59.66
+Summit Engineering College,Information Technology,OPEN,Round 1,91.72
+Summit Engineering College,Information Technology,OPEN,Round 2,86.75
+Summit Engineering College,Information Technology,OPEN,Round 3,84.23
+Summit Engineering College,Information Technology,EWS,Round 1,89.26
+Summit Engineering College,Information Technology,EWS,Round 2,85.18
+Summit Engineering College,Information Technology,EWS,Round 3,83.09
+Summit Engineering College,Information Technology,OBC,Round 1,87.29
+Summit Engineering College,Information Technology,OBC,Round 2,85.0
+Summit Engineering College,Information Technology,OBC,Round 3,80.54
+Summit Engineering College,Information Technology,SC,Round 1,70.44
+Summit Engineering College,Information Technology,SC,Round 2,64.59
+Summit Engineering College,Information Technology,SC,Round 3,59.81
+Summit Engineering College,Information Technology,ST,Round 1,64.5
+Summit Engineering College,Information Technology,ST,Round 2,58.25
+Summit Engineering College,Information Technology,ST,Round 3,56.26
+Summit Engineering College,Electronics & Telecommunication,OPEN,Round 1,83.83
+Summit Engineering College,Electronics & Telecommunication,OPEN,Round 2,77.06
+Summit Engineering College,Electronics & Telecommunication,OPEN,Round 3,73.63
+Summit Engineering College,Electronics & Telecommunication,EWS,Round 1,82.22
+Summit Engineering College,Electronics & Telecommunication,EWS,Round 2,79.07
+Summit Engineering College,Electronics & Telecommunication,EWS,Round 3,75.38
+Summit Engineering College,Electronics & Telecommunication,OBC,Round 1,76.13
+Summit Engineering College,Electronics & Telecommunication,OBC,Round 2,73.56
+Summit Engineering College,Electronics & Telecommunication,OBC,Round 3,69.87
+Summit Engineering College,Electronics & Telecommunication,SC,Round 1,65.35
+Summit Engineering College,Electronics & Telecommunication,SC,Round 2,60.74
+Summit Engineering College,Electronics & Telecommunication,SC,Round 3,56.65
+Summit Engineering College,Electronics & Telecommunication,ST,Round 1,59.2
+Summit Engineering College,Electronics & Telecommunication,ST,Round 2,54.44
+Summit Engineering College,Electronics & Telecommunication,ST,Round 3,51.19
+Summit Engineering College,Electrical Engineering,OPEN,Round 1,79.53
+Summit Engineering College,Electrical Engineering,OPEN,Round 2,73.15
+Summit Engineering College,Electrical Engineering,OPEN,Round 3,70.53
+Summit Engineering College,Electrical Engineering,EWS,Round 1,77.4
+Summit Engineering College,Electrical Engineering,EWS,Round 2,71.88
+Summit Engineering College,Electrical Engineering,EWS,Round 3,70.02
+Summit Engineering College,Electrical Engineering,OBC,Round 1,74.48
+Summit Engineering College,Electrical Engineering,OBC,Round 2,71.8
+Summit Engineering College,Electrical Engineering,OBC,Round 3,70.74
+Summit Engineering College,Electrical Engineering,SC,Round 1,59.02
+Summit Engineering College,Electrical Engineering,SC,Round 2,55.05
+Summit Engineering College,Electrical Engineering,SC,Round 3,52.31
+Summit Engineering College,Electrical Engineering,ST,Round 1,48.79
+Summit Engineering College,Electrical Engineering,ST,Round 2,42.27
+Summit Engineering College,Electrical Engineering,ST,Round 3,39.88
+Summit Engineering College,Mechanical Engineering,OPEN,Round 1,79.68
+Summit Engineering College,Mechanical Engineering,OPEN,Round 2,75.7
+Summit Engineering College,Mechanical Engineering,OPEN,Round 3,72.21
+Summit Engineering College,Mechanical Engineering,EWS,Round 1,74.54
+Summit Engineering College,Mechanical Engineering,EWS,Round 2,68.23
+Summit Engineering College,Mechanical Engineering,EWS,Round 3,63.43
+Summit Engineering College,Mechanical Engineering,OBC,Round 1,67.87
+Summit Engineering College,Mechanical Engineering,OBC,Round 2,63.58
+Summit Engineering College,Mechanical Engineering,OBC,Round 3,58.66
+Summit Engineering College,Mechanical Engineering,SC,Round 1,55.35
+Summit Engineering College,Mechanical Engineering,SC,Round 2,50.88
+Summit Engineering College,Mechanical Engineering,SC,Round 3,48.57
+Summit Engineering College,Mechanical Engineering,ST,Round 1,47.47
+Summit Engineering College,Mechanical Engineering,ST,Round 2,45.09
+Summit Engineering College,Mechanical Engineering,ST,Round 3,43.58
+Summit Engineering College,Civil Engineering,OPEN,Round 1,72.43
+Summit Engineering College,Civil Engineering,OPEN,Round 2,69.79
+Summit Engineering College,Civil Engineering,OPEN,Round 3,68.19
+Summit Engineering College,Civil Engineering,EWS,Round 1,68.98
+Summit Engineering College,Civil Engineering,EWS,Round 2,66.07
+Summit Engineering College,Civil Engineering,EWS,Round 3,63.69
+Summit Engineering College,Civil Engineering,OBC,Round 1,63.02
+Summit Engineering College,Civil Engineering,OBC,Round 2,56.53
+Summit Engineering College,Civil Engineering,OBC,Round 3,53.64
+Summit Engineering College,Civil Engineering,SC,Round 1,47.95
+Summit Engineering College,Civil Engineering,SC,Round 2,44.99
+Summit Engineering College,Civil Engineering,SC,Round 3,43.83
+Summit Engineering College,Civil Engineering,ST,Round 1,44.18
+Summit Engineering College,Civil Engineering,ST,Round 2,41.34
+Summit Engineering College,Civil Engineering,ST,Round 3,39.23
+Riverside Institute of Technology,Computer Engineering,OPEN,Round 1,92.55
+Riverside Institute of Technology,Computer Engineering,OPEN,Round 2,89.52
+Riverside Institute of Technology,Computer Engineering,OPEN,Round 3,87.06
+Riverside Institute of Technology,Computer Engineering,EWS,Round 1,88.16
+Riverside Institute of Technology,Computer Engineering,EWS,Round 2,83.64
+Riverside Institute of Technology,Computer Engineering,EWS,Round 3,79.88
+Riverside Institute of Technology,Computer Engineering,OBC,Round 1,84.66
+Riverside Institute of Technology,Computer Engineering,OBC,Round 2,78.3
+Riverside Institute of Technology,Computer Engineering,OBC,Round 3,73.61
+Riverside Institute of Technology,Computer Engineering,SC,Round 1,71.04
+Riverside Institute of Technology,Computer Engineering,SC,Round 2,68.73
+Riverside Institute of Technology,Computer Engineering,SC,Round 3,66.62
+Riverside Institute of Technology,Computer Engineering,ST,Round 1,65.64
+Riverside Institute of Technology,Computer Engineering,ST,Round 2,62.71
+Riverside Institute of Technology,Computer Engineering,ST,Round 3,60.88
+Riverside Institute of Technology,Information Technology,OPEN,Round 1,91.85
+Riverside Institute of Technology,Information Technology,OPEN,Round 2,88.0
+Riverside Institute of Technology,Information Technology,OPEN,Round 3,85.06
+Riverside Institute of Technology,Information Technology,EWS,Round 1,85.44
+Riverside Institute of Technology,Information Technology,EWS,Round 2,81.13
+Riverside Institute of Technology,Information Technology,EWS,Round 3,77.14
+Riverside Institute of Technology,Information Technology,OBC,Round 1,85.76
+Riverside Institute of Technology,Information Technology,OBC,Round 2,83.58
+Riverside Institute of Technology,Information Technology,OBC,Round 3,81.57
+Riverside Institute of Technology,Information Technology,SC,Round 1,69.58
+Riverside Institute of Technology,Information Technology,SC,Round 2,65.02
+Riverside Institute of Technology,Information Technology,SC,Round 3,61.89
+Riverside Institute of Technology,Information Technology,ST,Round 1,63.18
+Riverside Institute of Technology,Information Technology,ST,Round 2,60.65
+Riverside Institute of Technology,Information Technology,ST,Round 3,57.86
+Riverside Institute of Technology,Electronics & Telecommunication,OPEN,Round 1,81.3
+Riverside Institute of Technology,Electronics & Telecommunication,OPEN,Round 2,77.96
+Riverside Institute of Technology,Electronics & Telecommunication,OPEN,Round 3,75.45
+Riverside Institute of Technology,Electronics & Telecommunication,EWS,Round 1,81.02
+Riverside Institute of Technology,Electronics & Telecommunication,EWS,Round 2,78.92
+Riverside Institute of Technology,Electronics & Telecommunication,EWS,Round 3,76.63
+Riverside Institute of Technology,Electronics & Telecommunication,OBC,Round 1,75.74
+Riverside Institute of Technology,Electronics & Telecommunication,OBC,Round 2,73.15
+Riverside Institute of Technology,Electronics & Telecommunication,OBC,Round 3,68.58
+Riverside Institute of Technology,Electronics & Telecommunication,SC,Round 1,60.09
+Riverside Institute of Technology,Electronics & Telecommunication,SC,Round 2,55.12
+Riverside Institute of Technology,Electronics & Telecommunication,SC,Round 3,51.41
+Riverside Institute of Technology,Electronics & Telecommunication,ST,Round 1,55.7
+Riverside Institute of Technology,Electronics & Telecommunication,ST,Round 2,53.27
+Riverside Institute of Technology,Electronics & Telecommunication,ST,Round 3,50.12
+Riverside Institute of Technology,Electrical Engineering,OPEN,Round 1,79.93
+Riverside Institute of Technology,Electrical Engineering,OPEN,Round 2,75.0
+Riverside Institute of Technology,Electrical Engineering,OPEN,Round 3,71.02
+Riverside Institute of Technology,Electrical Engineering,EWS,Round 1,73.16
+Riverside Institute of Technology,Electrical Engineering,EWS,Round 2,69.74
+Riverside Institute of Technology,Electrical Engineering,EWS,Round 3,67.29
+Riverside Institute of Technology,Electrical Engineering,OBC,Round 1,70.43
+Riverside Institute of Technology,Electrical Engineering,OBC,Round 2,65.2
+Riverside Institute of Technology,Electrical Engineering,OBC,Round 3,61.92
+Riverside Institute of Technology,Electrical Engineering,SC,Round 1,53.62
+Riverside Institute of Technology,Electrical Engineering,SC,Round 2,51.11
+Riverside Institute of Technology,Electrical Engineering,SC,Round 3,49.5
+Riverside Institute of Technology,Electrical Engineering,ST,Round 1,50.56
+Riverside Institute of Technology,Electrical Engineering,ST,Round 2,47.33
+Riverside Institute of Technology,Electrical Engineering,ST,Round 3,45.69
+Riverside Institute of Technology,Mechanical Engineering,OPEN,Round 1,74.83
+Riverside Institute of Technology,Mechanical Engineering,OPEN,Round 2,71.96
+Riverside Institute of Technology,Mechanical Engineering,OPEN,Round 3,67.37
+Riverside Institute of Technology,Mechanical Engineering,EWS,Round 1,71.42
+Riverside Institute of Technology,Mechanical Engineering,EWS,Round 2,69.02
+Riverside Institute of Technology,Mechanical Engineering,EWS,Round 3,65.92
+Riverside Institute of Technology,Mechanical Engineering,OBC,Round 1,69.12
+Riverside Institute of Technology,Mechanical Engineering,OBC,Round 2,66.56
+Riverside Institute of Technology,Mechanical Engineering,OBC,Round 3,63.97
+Riverside Institute of Technology,Mechanical Engineering,SC,Round 1,53.64
+Riverside Institute of Technology,Mechanical Engineering,SC,Round 2,46.79
+Riverside Institute of Technology,Mechanical Engineering,SC,Round 3,42.33
+Riverside Institute of Technology,Mechanical Engineering,ST,Round 1,46.85
+Riverside Institute of Technology,Mechanical Engineering,ST,Round 2,43.99
+Riverside Institute of Technology,Mechanical Engineering,ST,Round 3,40.32
+Riverside Institute of Technology,Civil Engineering,OPEN,Round 1,70.85
+Riverside Institute of Technology,Civil Engineering,OPEN,Round 2,64.2
+Riverside Institute of Technology,Civil Engineering,OPEN,Round 3,60.97
+Riverside Institute of Technology,Civil Engineering,EWS,Round 1,64.21
+Riverside Institute of Technology,Civil Engineering,EWS,Round 2,58.36
+Riverside Institute of Technology,Civil Engineering,EWS,Round 3,56.61
+Riverside Institute of Technology,Civil Engineering,OBC,Round 1,63.53
+Riverside Institute of Technology,Civil Engineering,OBC,Round 2,59.91
+Riverside Institute of Technology,Civil Engineering,OBC,Round 3,57.21
+Riverside Institute of Technology,Civil Engineering,SC,Round 1,45.27
+Riverside Institute of Technology,Civil Engineering,SC,Round 2,42.7
+Riverside Institute of Technology,Civil Engineering,SC,Round 3,39.26
+Riverside Institute of Technology,Civil Engineering,ST,Round 1,41.79
+Riverside Institute of Technology,Civil Engineering,ST,Round 2,38.34
+Riverside Institute of Technology,Civil Engineering,ST,Round 3,35.02
+Skyline College of Engineering,Computer Engineering,OPEN,Round 1,90.9
+Skyline College of Engineering,Computer Engineering,OPEN,Round 2,86.24
+Skyline College of Engineering,Computer Engineering,OPEN,Round 3,85.03
+Skyline College of Engineering,Computer Engineering,EWS,Round 1,86.18
+Skyline College of Engineering,Computer Engineering,EWS,Round 2,82.5
+Skyline College of Engineering,Computer Engineering,EWS,Round 3,80.96
+Skyline College of Engineering,Computer Engineering,OBC,Round 1,85.51
+Skyline College of Engineering,Computer Engineering,OBC,Round 2,82.24
+Skyline College of Engineering,Computer Engineering,OBC,Round 3,78.51
+Skyline College of Engineering,Computer Engineering,SC,Round 1,68.13
+Skyline College of Engineering,Computer Engineering,SC,Round 2,62.33
+Skyline College of Engineering,Computer Engineering,SC,Round 3,58.95
+Skyline College of Engineering,Computer Engineering,ST,Round 1,59.29
+Skyline College of Engineering,Computer Engineering,ST,Round 2,55.55
+Skyline College of Engineering,Computer Engineering,ST,Round 3,50.83
+Skyline College of Engineering,Information Technology,OPEN,Round 1,87.8
+Skyline College of Engineering,Information Technology,OPEN,Round 2,81.65
+Skyline College of Engineering,Information Technology,OPEN,Round 3,76.79
+Skyline College of Engineering,Information Technology,EWS,Round 1,86.56
+Skyline College of Engineering,Information Technology,EWS,Round 2,79.87
+Skyline College of Engineering,Information Technology,EWS,Round 3,78.14
+Skyline College of Engineering,Information Technology,OBC,Round 1,81.09
+Skyline College of Engineering,Information Technology,OBC,Round 2,78.76
+Skyline College of Engineering,Information Technology,OBC,Round 3,74.8
+Skyline College of Engineering,Information Technology,SC,Round 1,68.75
+Skyline College of Engineering,Information Technology,SC,Round 2,66.05
+Skyline College of Engineering,Information Technology,SC,Round 3,61.87
+Skyline College of Engineering,Information Technology,ST,Round 1,61.38
+Skyline College of Engineering,Information Technology,ST,Round 2,58.37
+Skyline College of Engineering,Information Technology,ST,Round 3,56.72
+Skyline College of Engineering,Electronics & Telecommunication,OPEN,Round 1,82.59
+Skyline College of Engineering,Electronics & Telecommunication,OPEN,Round 2,77.27
+Skyline College of Engineering,Electronics & Telecommunication,OPEN,Round 3,74.17
+Skyline College of Engineering,Electronics & Telecommunication,EWS,Round 1,78.37
+Skyline College of Engineering,Electronics & Telecommunication,EWS,Round 2,74.57
+Skyline College of Engineering,Electronics & Telecommunication,EWS,Round 3,70.07
+Skyline College of Engineering,Electronics & Telecommunication,OBC,Round 1,76.8
+Skyline College of Engineering,Electronics & Telecommunication,OBC,Round 2,72.61
+Skyline College of Engineering,Electronics & Telecommunication,OBC,Round 3,70.1
+Skyline College of Engineering,Electronics & Telecommunication,SC,Round 1,59.39
+Skyline College of Engineering,Electronics & Telecommunication,SC,Round 2,55.07
+Skyline College of Engineering,Electronics & Telecommunication,SC,Round 3,52.87
+Skyline College of Engineering,Electronics & Telecommunication,ST,Round 1,54.03
+Skyline College of Engineering,Electronics & Telecommunication,ST,Round 2,50.87
+Skyline College of Engineering,Electronics & Telecommunication,ST,Round 3,46.27
+Skyline College of Engineering,Electrical Engineering,OPEN,Round 1,78.51
+Skyline College of Engineering,Electrical Engineering,OPEN,Round 2,74.6
+Skyline College of Engineering,Electrical Engineering,OPEN,Round 3,71.42
+Skyline College of Engineering,Electrical Engineering,EWS,Round 1,73.35
+Skyline College of Engineering,Electrical Engineering,EWS,Round 2,70.77
+Skyline College of Engineering,Electrical Engineering,EWS,Round 3,66.01
+Skyline College of Engineering,Electrical Engineering,OBC,Round 1,70.16
+Skyline College of Engineering,Electrical Engineering,OBC,Round 2,65.02
+Skyline College of Engineering,Electrical Engineering,OBC,Round 3,62.68
+Skyline College of Engineering,Electrical Engineering,SC,Round 1,54.51
+Skyline College of Engineering,Electrical Engineering,SC,Round 2,49.41
+Skyline College of Engineering,Electrical Engineering,SC,Round 3,46.27
+Skyline College of Engineering,Electrical Engineering,ST,Round 1,47.38
+Skyline College of Engineering,Electrical Engineering,ST,Round 2,40.91
+Skyline College of Engineering,Electrical Engineering,ST,Round 3,36.75
+Skyline College of Engineering,Mechanical Engineering,OPEN,Round 1,73.31
+Skyline College of Engineering,Mechanical Engineering,OPEN,Round 2,70.07
+Skyline College of Engineering,Mechanical Engineering,OPEN,Round 3,66.09
+Skyline College of Engineering,Mechanical Engineering,EWS,Round 1,69.73
+Skyline College of Engineering,Mechanical Engineering,EWS,Round 2,67.56
+Skyline College of Engineering,Mechanical Engineering,EWS,Round 3,64.28
+Skyline College of Engineering,Mechanical Engineering,OBC,Round 1,67.72
+Skyline College of Engineering,Mechanical Engineering,OBC,Round 2,64.01
+Skyline College of Engineering,Mechanical Engineering,OBC,Round 3,59.72
+Skyline College of Engineering,Mechanical Engineering,SC,Round 1,52.5
+Skyline College of Engineering,Mechanical Engineering,SC,Round 2,49.95
+Skyline College of Engineering,Mechanical Engineering,SC,Round 3,45.56
+Skyline College of Engineering,Mechanical Engineering,ST,Round 1,45.6
+Skyline College of Engineering,Mechanical Engineering,ST,Round 2,39.61
+Skyline College of Engineering,Mechanical Engineering,ST,Round 3,38.01
+Skyline College of Engineering,Civil Engineering,OPEN,Round 1,66.53
+Skyline College of Engineering,Civil Engineering,OPEN,Round 2,63.39
+Skyline College of Engineering,Civil Engineering,OPEN,Round 3,59.5
+Skyline College of Engineering,Civil Engineering,EWS,Round 1,66.3
+Skyline College of Engineering,Civil Engineering,EWS,Round 2,60.83
+Skyline College of Engineering,Civil Engineering,EWS,Round 3,57.66
+Skyline College of Engineering,Civil Engineering,OBC,Round 1,63.03
+Skyline College of Engineering,Civil Engineering,OBC,Round 2,59.77
+Skyline College of Engineering,Civil Engineering,OBC,Round 3,57.39
+Skyline College of Engineering,Civil Engineering,SC,Round 1,43.33
+Skyline College of Engineering,Civil Engineering,SC,Round 2,39.02
+Skyline College of Engineering,Civil Engineering,SC,Round 3,34.23
+Skyline College of Engineering,Civil Engineering,ST,Round 1,42.24
+Skyline College of Engineering,Civil Engineering,ST,Round 2,39.48
+Skyline College of Engineering,Civil Engineering,ST,Round 3,36.13
