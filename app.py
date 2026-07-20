@@ -1,15 +1,3 @@
-# """
-# app.py
-# ------
-# Entry point of the Cutoff College Predictor app.
-# Run with:  streamlit run app.py
-
-# This page handles Login / Sign Up. Once logged in, the user is pointed to
-# the other pages in the sidebar (Predict College, My History, Admin Dashboard).
-# Streamlit's built-in multi-page mechanism auto-detects every file inside the
-# `pages/` folder and adds it to the sidebar automatically.
-# """
-
 import streamlit as st
 from database import init_db, add_user, authenticate_user
 
@@ -19,10 +7,8 @@ st.set_page_config(
     layout="centered",
 )
 
-# Create the SQLite tables on first run (safe to call every time)
 init_db()
 
-# ---- session state defaults ----
 if "logged_in" not in st.session_state:
     st.session_state.logged_in = False
 if "user" not in st.session_state:
@@ -69,8 +55,6 @@ def signup_form():
             else:
                 st.error(message)
 
-
-# ---------------- Page body ----------------
 st.title("🎓 Cutoff College Predictor")
 st.caption("Predict which colleges & branches you're eligible for, based on your entrance exam percentile.")
 
